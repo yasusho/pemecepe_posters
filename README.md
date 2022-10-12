@@ -1,5 +1,5 @@
 # pemecepe_posters
-PMCF の様々なポスターとか
+PMCF の様々なポスターとか。マルチページな SVG なので Inkscape 1.2 以降で開くこと。
 
 
 翻字とか：
