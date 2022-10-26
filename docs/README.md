@@ -1,15 +1,15 @@
 # PMCFのポスター展示
 
-![](../jukancetageka.png)
+![](https://raw.githubusercontent.com/yasusho/pemecepe_posters/master/jukancetageka.png)
 
-![](../honrui.png)
+![](https://raw.githubusercontent.com/yasusho/pemecepe_posters/master/honrui.png)
 
-![](../inuca.png)
+![](https://raw.githubusercontent.com/yasusho/pemecepe_posters/master/inuca.png)
 
-![](../lukupitletileti.png)
+![](https://raw.githubusercontent.com/yasusho/pemecepe_posters/master/lukupitletileti.png)
 
-![](../micetletimo.png)
+![](https://raw.githubusercontent.com/yasusho/pemecepe_posters/master/micetletimo.png)
 
-![](../morkliniopor.png)
+![](https://raw.githubusercontent.com/yasusho/pemecepe_posters/master/morkliniopor.png)
 
-![](../truiraikhuetpo.png)
+![](https://raw.githubusercontent.com/yasusho/pemecepe_posters/master/truiraikhuetpo.png)
